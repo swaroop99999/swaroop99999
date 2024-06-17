@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @swaroop99999
 - 👀 I’m interested in ...coding
-- 🌱 I’m currently learning ...web developement
+- 🌱 I’m currently learning ...java & python
 - 💞️ I’m looking to collaborate on ...github
 - 📫 How to reach me ..swaroopichare124@gmail.com 
 
